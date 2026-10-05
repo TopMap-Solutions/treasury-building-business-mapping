@@ -1,0 +1,2 @@
+"""QGIS-independent business rules."""
+

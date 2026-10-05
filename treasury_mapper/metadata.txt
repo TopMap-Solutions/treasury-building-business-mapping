@@ -1,0 +1,16 @@
+[general]
+name=Treasury Building-Business Mapper
+description=Search buildings and business permits, place business points, and link them spatially.
+version=0.2.3
+qgisMinimumVersion=3.0
+icon=icon.svg
+author=TopMap Solutions
+email=
+about=Prototype LGU Treasury workflow for linking business permit points to building footprints in a GeoPackage.
+category=Vector
+tags=treasury,business permits,buildings,geotagging,geopackage
+experimental=True
+deprecated=False
+homepage=
+repository=
+tracker=

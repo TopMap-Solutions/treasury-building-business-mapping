@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+dist/
+/treasury_mapper-*.zip

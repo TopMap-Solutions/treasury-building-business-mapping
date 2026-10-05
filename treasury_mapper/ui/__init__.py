@@ -1,0 +1,2 @@
+"""QGIS user interface components."""
+
